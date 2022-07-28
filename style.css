@@ -1,0 +1,15 @@
+*{
+    margin:0;
+    padding:0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+/* navbar css --- */
+/* carousel css - */
+.carousel-text{
+    width:1296px;
+}
