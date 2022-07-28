@@ -8,8 +8,16 @@ img{
 a{
     text-decoration: none;
 }
+ul{
+    list-style: none;
+}
 /* navbar css --- */
 /* carousel css - */
 .carousel-text{
     width:1296px;
+}
+/* footer css ------ */
+.footer-menu  li  {
+    
+    border:1px solid rgba(0, 0, 0, 0.205);
 }
